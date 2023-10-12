@@ -22,6 +22,9 @@ domain: sjpollard.github.io
 url: https://sjpollard.github.io
 baseurl: /sjpollard.github.io/
 
+header_pages:
+  - index.md
+
 title: My page
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -35,7 +38,6 @@ github_username:  jekyll
 
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
-#theme: minima
 plugins:
   - jekyll-feed
 
