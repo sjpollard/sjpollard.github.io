@@ -3,7 +3,19 @@ layout: home
 title: Home
 permalink:
 ---
+<p align="center">
+<img src="/images/sjpollard.jpeg" width="200">
+</p>
 
-# Sam Pollard
+# Sam Pollard ({{ site.github_username }})
 
-I am a first year PhD student at the University of Bristol, supervised by Dr. Michael Wray. Before this, I completed my MEng in Mathematics and Computer Science at the University of Bristol. My research will principally focus on computer vision, though I remain interested in compressed sensing, group testing and general probability.
+I am a first year PhD student at the University of Bristol, supervised by Dr. Michael Wray. My research will principally focus on computer vision, though I remain interested in compressed sensing, group testing and general probability. 
+
+Before this, I completed my MEng in Mathematics and Computer Science at the University of Bristol and received a First. My dissertation, titled "Compressed Learning for Egocentric Action Recognition", was awarded the prize of Best Computer Vision Project.
+
+# News
+
+[25-09-2023] Started as a PhD student within the MaVi research group.
+[28-07-2023] Graduated from the University of Bristol (MEng) with a First.
+
+# {{ site.email }}, [GitHub](https://github.com/sjpollard), [Google Scholar](https://scholar.google.com/citations?user=WDylpuwAAAAJ)
