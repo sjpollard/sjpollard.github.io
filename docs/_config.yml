@@ -25,7 +25,6 @@ baseurl: ""
 header_pages:
   - index.md
   - research.md
-  - projects.md
   - teaching.md
 
 title: sjpollard
