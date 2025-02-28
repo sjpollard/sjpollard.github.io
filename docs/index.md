@@ -15,6 +15,7 @@ Before this, I completed my MEng in Mathematics and Computer Science at the Univ
 
 # News
 
+[26-02-2025] [HD-EPIC: A Highly-Detailed Egocentric Video Dataset](https://hd-epic.github.io/) accepted at CVPR 2025!
 [07-02-2025] [HD-EPIC: A Highly-Detailed Egocentric Video Dataset](https://hd-epic.github.io/) now released on arXiv.
 [25-09-2023] Started as a PhD student within the MaVi research group.
 [28-07-2023] Graduated from the University of Bristol (MEng) with a First.
