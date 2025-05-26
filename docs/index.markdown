@@ -7,17 +7,17 @@ title: sjpollard
 ---
 
 <p align="center">
-<img src="/assets/sjpollard.jpg" width="200">
+<img src="/assets/sjpollard.jpg" width="30%">
 </p>
 
 # Sam Pollard ({{ site.github_username }})
 
-I am a second year PhD student at the University of Bristol, supervised by Dr. Michael Wray. My research will principally focus on computer vision, though I remain interested in compressed sensing, group testing and general probability. I am currently looking at data redundancy in vision models.
+I am a second year PhD student at the University of Bristol, supervised by Dr. Michael Wray. I'm interested in video redundancy, and exposing the degree to which large vision models are really understanding what they're evaluating.
 
 Before this, I completed my MEng in Mathematics and Computer Science at the University of Bristol and received a First. My dissertation, titled "Compressed Learning for Egocentric Action Recognition", was awarded the prize of Best Computer Vision Project.
 
  {{ site.email }}, [GitHub](https://github.com/sjpollard), [Google Scholar](https://scholar.google.com/citations?user=WDylpuwAAAAJ)
- 
+
 # News
 
 [26-02-2025] [HD-EPIC: A Highly-Detailed Egocentric Video Dataset](https://hd-epic.github.io/) accepted at CVPR 2025!
@@ -33,7 +33,7 @@ Before this, I completed my MEng in Mathematics and Computer Science at the Univ
 
 HD-EPIC: A Highly Detailed Egocentric Dataset
 
-<img align="center" src="/assets/hd_epic_teaser.jpg" width="100%">
+<img align="center" src="/assets/hd_epic_teaser.jpg" width="400">
     
 Toby Perrett, Ahmad Darkhalil, Saptarshi Sinha, Omar Emara, Sam Pollard, Kranti Parida, Kaiting Liu, Prajwal Gatti, Siddhant Bansal, Kevin Flanagan, Jacob Chalk, Zhifan Zhu, Rhodri Guerrier, Fahd Abdelazim, Bin Zhu, Davide Moltisanti, Michael Wray, Hazel Doughty, Dima Damen
 
@@ -42,4 +42,5 @@ CVPR 2025, [Webpage](https://hd-epic.github.io/), [arXiv](https://arxiv.org/abs/
 # Teaching
 
 Teaching Assistant - COMSM0045 Applied Deep Learning 23/24
+
 Teaching Assistant - COMSM0045 Applied Deep Learning 24/25
