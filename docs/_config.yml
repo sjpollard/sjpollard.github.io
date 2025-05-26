@@ -18,23 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-domain: sjpollard.github.io
-url: https://sjpollard.github.io
-baseurl: ""
-
-header_pages:
-  - index.md
-  - research.md
-  - teaching.md
-
 title: sjpollard
 email: sam.pollard@bristol.ac.uk
-description: >-
-  This is a description.
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://sjpollard.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sjpollard
 
 # Build settings
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: riggraz/no-style-please
+plugins:
+  - jekyll-remote-theme
+
+favicon: assets/uob.png
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+  lowercase_titles: true # show titles in lowercase in lists
 
 # Exclude from processing.
 # The following items will not be processed, by default.
