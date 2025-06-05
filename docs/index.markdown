@@ -20,6 +20,8 @@ Before this, I completed my MEng in Mathematics and Computer Science at the Univ
 
 ## News
 
+[05-06-2025] <b>[Video, How Do Your Tokens Merge?](https://arxiv.org/abs/2506.03885)</b> now released on arXiv.
+
 [04-06-2025] <b>[Video, How Do Your Tokens Merge?](https://github.com/sjpollard/video-how-do-your-tokens-merge)</b> code released on GitHub.
 
 [01-04-2025] <b>[Video, How Do Your Tokens Merge?](https://sjpollard.github.io/video-how-do-your-tokens-merge/)</b> accepted at eLVM@CVPR'25!
@@ -42,7 +44,7 @@ Before this, I completed my MEng in Mathematics and Computer Science at the Univ
 
 Sam Pollard, Michael Wray
 
-eLVM@CVPR 2025, [Webpage](https://sjpollard.github.io/video-how-do-your-tokens-merge/), [arXiv (TBC)]()
+eLVM@CVPR 2025, [Webpage](https://sjpollard.github.io/video-how-do-your-tokens-merge/), [arXiv](https://arxiv.org/abs/2506.03885)
 
 ---
 
