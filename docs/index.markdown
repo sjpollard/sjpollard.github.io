@@ -24,7 +24,7 @@ Before this, I completed my MEng in Mathematics and Computer Science at the Univ
 
 [01-04-2025] <b>[Video, How Do Your Tokens Merge?](https://sjpollard.github.io/video-how-do-your-tokens-merge/)</b> accepted at eLVM@CVPR'25!
 
-[26-02-2025] <b>[HD-EPIC: A Highly-Detailed Egocentric Video Dataset](https://hd-epic.github.io/)</b> accepted at CVPR 2025!
+[26-02-2025] <b>[HD-EPIC: A Highly-Detailed Egocentric Video Dataset](https://hd-epic.github.io/)</b> accepted at CVPR'25!
 
 [07-02-2025] <b>[HD-EPIC: A Highly-Detailed Egocentric Video Dataset](https://arxiv.org/abs/2502.04144)</b> now released on arXiv.
 
