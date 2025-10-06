@@ -12,7 +12,7 @@ title: sjpollard
 
 # Sam Pollard ({{ site.github_username }})
 
-I am a second year PhD student at the University of Bristol, supervised by Dr. Michael Wray. I'm interested in video redundancy, and exposing the degree to which large vision models are really understanding what they're evaluating.
+I am a third year PhD student at the University of Bristol, supervised by Dr. Michael Wray. I'm interested in video redundancy, and exposing the degree to which large vision models are really understanding what they're evaluating.
 
 Before this, I completed my MEng in Mathematics and Computer Science at the University of Bristol and received a First. My dissertation, titled "Compressed Learning for Egocentric Action Recognition", was awarded the prize of Best Computer Vision Project.
 
@@ -61,3 +61,5 @@ CVPR 2025, [Webpage](https://hd-epic.github.io/), [arXiv](https://arxiv.org/abs/
 Teaching Assistant - COMSM0045 Applied Deep Learning 23/24
 
 Teaching Assistant - COMSM0045 Applied Deep Learning 24/25
+
+Teaching Assistant - COMSM0045 Applied Deep Learning 25/26
