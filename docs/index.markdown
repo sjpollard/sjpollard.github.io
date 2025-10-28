@@ -20,6 +20,10 @@ Before this, I completed my MEng in Mathematics and Computer Science at the Univ
 
 ## News
 
+[28-10-2025] <b>[A Video Is Not Worth a Thousand Words](https://arxiv.org/abs/2510.23253)</b> now released on arXiv.
+
+[21-10-2025] <b>[A Video Is Not Worth a Thousand Words](https://github.com/sjpollard/a-video-is-not-worth-a-thousand-words)</b> code released on GitHub.
+
 [05-06-2025] <b>[Video, How Do Your Tokens Merge?](https://arxiv.org/abs/2506.03885)</b> now released on arXiv.
 
 [04-06-2025] <b>[Video, How Do Your Tokens Merge?](https://github.com/sjpollard/video-how-do-your-tokens-merge)</b> code released on GitHub.
@@ -36,6 +40,14 @@ Before this, I completed my MEng in Mathematics and Computer Science at the Univ
 
 
 ## Research
+
+### A Video Is Not Worth a Thousand Words
+
+<img align="center" src="/assets/avinwatw.png" width="400">
+
+Sam Pollard, Michael Wray
+
+arXiv 2025, [Webpage](https://sjpollard.github.io/a-video-is-not-worth-a-thousand-words/), [arXiv](https://arxiv.org/abs/2510.23253)
 
 ### Video, How Do Your Tokens Merge?
 
