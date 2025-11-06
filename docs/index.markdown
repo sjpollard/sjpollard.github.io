@@ -20,6 +20,8 @@ Before this, I completed my MEng in Mathematics and Computer Science at the Univ
 
 ## News
 
+[05-11-2025] Invited to present <b>[A Video Is Not Worth a Thousand Words](https://sjpollard.github.io/a-video-is-not-worth-a-thousand-words/)</b> at [BMVA Symposium on Multimodal Large Models 2025](https://www.bmva.org/meetings/25-11-05-MultimodalLargeModels.html).
+
 [28-10-2025] <b>[A Video Is Not Worth a Thousand Words](https://arxiv.org/abs/2510.23253)</b> now released on arXiv.
 
 [21-10-2025] <b>[A Video Is Not Worth a Thousand Words](https://github.com/sjpollard/a-video-is-not-worth-a-thousand-words)</b> code released on GitHub.
